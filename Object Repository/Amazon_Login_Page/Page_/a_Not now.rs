@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Not now</name>
+   <tag></tag>
+   <elementGuidId>0dc8d0d7-4af7-4410-998f-ec1bc9f13b6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ap-account-fixup-phone-skip-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ap-account-fixup-phone-skip-link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>20da79e3-04cb-4edb-8862-9b6549986e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ap-account-fixup-phone-skip-link</value>
+      <webElementGuid>09abbfb2-5194-4ce9-9f0d-6a58d7a686e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal</value>
+      <webElementGuid>9840cdd8-b787-455d-8faf-f63fddfc46eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.amazon.com/ap/signin?openid.pape.max_auth_age=900&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;appActionToken=SxTvzlcYkbzcVwmgXVDZX7SOmO4j3D&amp;pageId=usflex&amp;openid.pape.preferred_auth_policies=http%3A%2F%2Fschemas.openid.net%2Fpape%2Fpolicies%2F2007%2F06%2Fnone&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin%26returnFromLogin%3D1&amp;openid.assoc_handle=usflex&amp;partialToken=PT%7C1%7CpqVyPUNuoA5DNw84pllLuHcB6z8nzm1REcTvw%2Fi8yIr5HRRYXmWbmirecotpQt3y3RvAYvtC89lw1uR2k9dwhURDXtDE0QnP3zA5bcspVy+oUx8f696jEjHPjjVzfGVdL7uUIdHoO8Qv4Z843tL7YeFP%2FygsBZzz9dVTRJOh83ouUjzaNmYVPbswseNbZ5PYpX2pG0rCfq5rxY1DyCjQ1Th%2FIo2vhAIjGZUkCh2NpjtaStP4vKzCUY8ir9uQnLw0YdUELtrS9cvbEMj4Mfkl+S2J%2FiznVIjf0WsLmmg40duqWlmBsDnehrSOOyA7VEkvSynZH%2FI39mG0T%2F12JAw+laM%3D&amp;openid.mode=checkid_setup&amp;appAction=ACCOUNT_FIXUP_PHONE_ADD_COMPLETE&amp;ref_=ap_reachability_skip&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;authenticationPolicy=SinglefactorWithMobileVerification</value>
+      <webElementGuid>62c6ba9d-2f05-40ec-a207-fd7e7b52b390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Not now
+                </value>
+      <webElementGuid>7688a53c-e7aa-4597-be58-15ae1371d302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ap-account-fixup-phone-skip-link&quot;)</value>
+      <webElementGuid>889ea2a7-1661-43f0-be91-d1b6ee7a95be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ap-account-fixup-phone-skip-link']</value>
+      <webElementGuid>503b55e4-5e30-4b90-9cee-bd97077e332a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='auth-account-fixup-phone-form']/div/div[5]/div/a</value>
+      <webElementGuid>4e45cde1-e6d7-4961-a8ba-9afb8de4a7c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Not now')]</value>
+      <webElementGuid>a0b49e3a-bfc1-4fed-a955-caac26508cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.amazon.com/ap/signin?openid.pape.max_auth_age=900&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;appActionToken=SxTvzlcYkbzcVwmgXVDZX7SOmO4j3D&amp;pageId=usflex&amp;openid.pape.preferred_auth_policies=http%3A%2F%2Fschemas.openid.net%2Fpape%2Fpolicies%2F2007%2F06%2Fnone&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin%26returnFromLogin%3D1&amp;openid.assoc_handle=usflex&amp;partialToken=PT%7C1%7CpqVyPUNuoA5DNw84pllLuHcB6z8nzm1REcTvw%2Fi8yIr5HRRYXmWbmirecotpQt3y3RvAYvtC89lw1uR2k9dwhURDXtDE0QnP3zA5bcspVy+oUx8f696jEjHPjjVzfGVdL7uUIdHoO8Qv4Z843tL7YeFP%2FygsBZzz9dVTRJOh83ouUjzaNmYVPbswseNbZ5PYpX2pG0rCfq5rxY1DyCjQ1Th%2FIo2vhAIjGZUkCh2NpjtaStP4vKzCUY8ir9uQnLw0YdUELtrS9cvbEMj4Mfkl+S2J%2FiznVIjf0WsLmmg40duqWlmBsDnehrSOOyA7VEkvSynZH%2FI39mG0T%2F12JAw+laM%3D&amp;openid.mode=checkid_setup&amp;appAction=ACCOUNT_FIXUP_PHONE_ADD_COMPLETE&amp;ref_=ap_reachability_skip&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;authenticationPolicy=SinglefactorWithMobileVerification')]</value>
+      <webElementGuid>ab138d0b-61b0-4751-a1a7-37b3a3e928f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a</value>
+      <webElementGuid>2e89b9be-28f9-400a-b3d8-7ca57c4ab729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ap-account-fixup-phone-skip-link' and @href = 'https://www.amazon.com/ap/signin?openid.pape.max_auth_age=900&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;appActionToken=SxTvzlcYkbzcVwmgXVDZX7SOmO4j3D&amp;pageId=usflex&amp;openid.pape.preferred_auth_policies=http%3A%2F%2Fschemas.openid.net%2Fpape%2Fpolicies%2F2007%2F06%2Fnone&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin%26returnFromLogin%3D1&amp;openid.assoc_handle=usflex&amp;partialToken=PT%7C1%7CpqVyPUNuoA5DNw84pllLuHcB6z8nzm1REcTvw%2Fi8yIr5HRRYXmWbmirecotpQt3y3RvAYvtC89lw1uR2k9dwhURDXtDE0QnP3zA5bcspVy+oUx8f696jEjHPjjVzfGVdL7uUIdHoO8Qv4Z843tL7YeFP%2FygsBZzz9dVTRJOh83ouUjzaNmYVPbswseNbZ5PYpX2pG0rCfq5rxY1DyCjQ1Th%2FIo2vhAIjGZUkCh2NpjtaStP4vKzCUY8ir9uQnLw0YdUELtrS9cvbEMj4Mfkl+S2J%2FiznVIjf0WsLmmg40duqWlmBsDnehrSOOyA7VEkvSynZH%2FI39mG0T%2F12JAw+laM%3D&amp;openid.mode=checkid_setup&amp;appAction=ACCOUNT_FIXUP_PHONE_ADD_COMPLETE&amp;ref_=ap_reachability_skip&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;authenticationPolicy=SinglefactorWithMobileVerification' and (text() = '
+                  Not now
+                ' or . = '
+                  Not now
+                ')]</value>
+      <webElementGuid>5c73595b-ec00-42e3-b827-d46f0e29da79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login</description>
+   <name>TC_001_Amazon_login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c10dde9a-3cf6-4f67-9b12-2e0d445c6c51</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>66c7d7c7-e17e-4c6a-8176-ff70f798b452</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'mounika6400@gmail.com'</defaultValue>
+      <description></description>
+      <id>66c7d7c7-e17e-4c6a-8176-ff70f798b452</id>
+      <masked>false</masked>
+      <name>email_id</name>
+   </variable>
+</TestCaseEntity>
